@@ -741,10 +741,10 @@
     /* .links-section__icon-box{
         max-width: fit-content;
     } */
-
+/* 
     .links-section__right-right{
         margin-top: 70px;
-    }
+    } */
     .word-card__box{
         flex-wrap: wrap;
         justify-content: center;
@@ -783,12 +783,16 @@
         text-align: center;
     }
     .links-section__icon-box{
-        text-align: left;
+        text-align: center;
         margin-top: 40px;
     }
 
     .searvice-section__container{
         text-align: center;
+    }
+
+    .links-section__icons{
+        margin: auto;
     }
 }
 
